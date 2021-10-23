@@ -6,5 +6,3 @@ through the online lessons in the [introduction to earth data science textbook o
 Here is some more text.
 
 Here is even more text, for a test.
-
-test text for removal after stage
